@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m @AlFahimBinFaruk</h1>
 
-- 👀 I’m interested in Cloud Computing,Blockchain,
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Cloud Computing,Blockchain,DevOPS.
+- 🌱 I’m currently learning Flask,Django,FastAPI,Express.
 - 📫 Reach me at fah8m88@gmail.com
 
 <!---
