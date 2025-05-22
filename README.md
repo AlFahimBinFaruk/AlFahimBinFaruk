@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m @AlFahimBinFaruk</h1>
 
 - 👀 I’m interested in Blockchain, DevOPS.
-- 🌱 I’m currently learning Flask, Django, Express.
+- 🌱 I’m currently learning Flask, Django, Nest Js.
 - 📫 Reach me at alfahim.cse@gmail.com
 
 <!---
