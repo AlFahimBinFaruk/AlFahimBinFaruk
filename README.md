@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m @AlFahimBinFaruk</h1>
 
-- 👀 I’m interested in Blockchain, DevOPS.
-- 🌱 I’m currently learning Go Lang,Flask, Django, Nest Js.
+- 👀 I’m interested in MLOps, DevOPS.
+- 🌱 I’m currently learning LangChain,Flask, FastAPI, Nest Js.
 - 📫 Reach me at alfahim.cse@gmail.com
 
 <!---
@@ -24,8 +24,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
@@ -35,7 +33,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </span>
 
 <h4> Databases </h4>
