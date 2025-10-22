@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m @AlFahimBinFaruk</h1>
 
-- 👀 I’m interested in <b>DevOPS</b>,MLOps.
+- 👀 I’m interested in <b>DevOPS</b>.
 - 🌱 I’m currently learning LangChain,Flask,FastAPI,Nest Js.
 - 📫 Reach me at alfahim.cse@gmail.com
 
