@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m @AlFahimBinFaruk</h1>
 
 - 👀 I’m interested in Cloud and AI/ML.
-- 🌱 I’m currently learning AWS, FastAPI, and LangChain.
+- 🌱 I’m currently learning AWS, Node, FastAPI, and LangChain.
 - 📫 Reach me at alfahim.cse@gmail.com
 
 <!---
